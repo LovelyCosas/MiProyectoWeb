@@ -1,0 +1,6 @@
+# excluyo carpeta de configuracion de vscode
+.vscode/
+
+# achivos de sistema de Windows
+Thumbs.db
+Desktop.ini
