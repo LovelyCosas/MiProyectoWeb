@@ -1,41 +1,38 @@
-\# Mi Proyecto Web
+# Mi Proyecto Web
 
 
 
 Este es un proyecto para aprender a utilizar Git y GitHub, simulando un entorno de trabajo profesional con ramas y Pull Requests.
 
 
+## Tabla de Contenido
 
-\## Tabla de Contenido
+- \[Instalación] (#instalación)
 
-\- \[Instalación] (#instalación)
+- \[Estructura del Proyecto] (#estructura-del-proyecto)
 
-\- \[Estructura del Proyecto] (#estructura-del-proyecto)
-
-\- \[Mejoras Implementadas] (#mejoras-implementadas)
-
+- \[Mejoras Implementadas] (#mejoras-implementadas)
 
 
-\## Instalación
+## Instalación
 
 Para visualizar este proyecto, simplemente clona el repositorio y abre el archivo index.html en tu navegador
 
 
 
-\## Estructura del Proyecto
+## Estructura del Proyecto
 
 El proyecto consta de:
 
-\- \*\*index.html\*\*: archivo principal con la estructura web
+- \*\*index.html\*\*: archivo principal con la estructura web
 
-\- \*\*.gitignore\*\*: archivo de configuración para excluir archivos innecesarios
+- \*\*.gitignore\*\*: archivo de configuración para excluir archivos innecesarios
 
 
 
-\## Mejoras Implementadas
+## Mejoras Implementadas
 
 Se han desarrollado las siguientes funcionalidades trabajando en ramas independientes (`feature/`):
-
 
 
 1\.  \*\*Formulario de Contacto:\*\* Se ha añadido una sección con campos para nombre, mensaje y un botón para enviar
