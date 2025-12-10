@@ -7,11 +7,11 @@ Este es un proyecto para aprender a utilizar Git y GitHub, simulando un entorno 
 
 ## Tabla de Contenido
 
-- [Instalación] (#instalacion)
+- [Instalación](#instalacion)
 
-- [Estructura del Proyecto] (#estructura-del-proyecto)
+- [Estructura del Proyecto](#estructura-del-proyecto)
 
-- [Mejoras Implementadas] (#mejoras-implementadas)
+- [Mejoras Implementadas](#mejoras-implementadas)
 
 
 ## Instalación
