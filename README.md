@@ -1,11 +1,11 @@
-#Mi Proyecto Web
+# Mi Proyecto Web
 
 
 
 Este es un proyecto para aprender a utilizar Git y GitHub, simulando un entorno de trabajo profesional con ramas y Pull Requests.
 
 
-##Tabla de Contenido
+## Tabla de Contenido
 
 - [Instalación](#instalación)
 
@@ -14,13 +14,13 @@ Este es un proyecto para aprender a utilizar Git y GitHub, simulando un entorno 
 - [Mejoras Implementadas](#mejoras-implementadas)
 
 
-##Instalación
+## Instalación
 
 Para visualizar este proyecto, simplemente clona el repositorio y abre el archivo index.html en tu navegador
 
 
 
-##Estructura del Proyecto
+## Estructura del Proyecto
 
 El proyecto consta de:
 
@@ -30,7 +30,7 @@ El proyecto consta de:
 
 
 
-##Mejoras Implementadas
+## Mejoras Implementadas
 
 Se han desarrollado las siguientes funcionalidades trabajando en ramas independientes (`feature/`):
 
