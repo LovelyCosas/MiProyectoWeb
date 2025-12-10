@@ -24,9 +24,9 @@ Para visualizar este proyecto, simplemente clona el repositorio y abre el archiv
 
 El proyecto consta de:
 
-- \*\*index.html\*\*: archivo principal con la estructura web
+- **index.html**: archivo principal con la estructura web
 
-- \*\*.gitignore\*\*: archivo de configuración para excluir archivos innecesarios
+- **.gitignore**: archivo de configuración para excluir archivos innecesarios
 
 
 
@@ -35,7 +35,7 @@ El proyecto consta de:
 Se han desarrollado las siguientes funcionalidades trabajando en ramas independientes (`feature/`):
 
 
-1\.  \*\*Formulario de Contacto:\*\* Se ha añadido una sección con campos para nombre, mensaje y un botón para enviar
+1\.  **Formulario de Contacto:** Se ha añadido una sección con campos para nombre, mensaje y un botón para enviar
 
-2\.  \*\*Footer:\*\* un de un pie de página con enlaces a redes sociales y derechos de autor
+2\.  **Footer:** un de un pie de página con enlaces a redes sociales y derechos de autor
 
